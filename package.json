@@ -1,0 +1,14 @@
+{
+  "name": "knockoutify",
+  "description": "Knockoutjs lib for browsers",
+  "version": "2.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guillaume86/knockoutify.git"
+  },
+  "author": "Guillaume Lecomte <guillaume86@gmail.com>",
+  "engines": {
+    "node": "*"
+  },
+  "main": "./index.js"
+}
