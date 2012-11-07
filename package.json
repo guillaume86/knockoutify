@@ -1,14 +1,11 @@
 {
   "name": "knockoutify",
-  "description": "Knockout.js lib for browsers",
-  "version": "2.1.0",
+  "description": "Knockout makes it easier to create rich, responsive UIs with JavaScript",
+  "version": "2.2.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/guillaume86/knockoutify.git"
   },
   "author": "Steven Sanderson",
-  "engines": {
-    "node": "*"
-  },
   "main": "./index.js"
 }
